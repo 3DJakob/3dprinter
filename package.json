@@ -1,0 +1,15 @@
+{
+  "name": "3dprinter",
+  "version": "1.0.0",
+  "description": "An app for managing distributing payments for the 3dprinter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "3dprinter"
+  },
+  "author": "Jakob Unnebäck",
+  "license": "ISC"
+}
